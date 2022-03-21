@@ -34,3 +34,19 @@ nav{
 #active{
     border-bottom: 1px solid #000;
 }
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about_info{
+    width: 80%;
+    min-width: 400px;
+}

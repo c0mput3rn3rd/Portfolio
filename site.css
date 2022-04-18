@@ -55,9 +55,14 @@ h1{
 
 /*Resume Page Specific*/
 
+#resume{
+    width: 100%;
+    height: 700px;
+}
 
 /*Portfolio Page Specific*/
 .icon-link{
     text-decoration: none;
     color: black;
 }
+

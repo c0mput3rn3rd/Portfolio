@@ -28,7 +28,7 @@ nav{
 }
 
 .menu > li:hover{
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid rgb(150, 150, 150);
 }
 
 #active{
@@ -79,6 +79,14 @@ h1{
     text-decoration: none;
     color: black;
     margin: 20px;
+}
+
+.fa{
+    filter: drop-shadow(4px 4px 1px rgb(160, 160, 160));
+}
+
+.fa:hover{
+    filter: drop-shadow(5px 5px 1px rgb(86, 86, 86));
 }
 
 .portfolio-container{

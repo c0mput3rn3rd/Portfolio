@@ -1,0 +1,1 @@
+This is a portfolio website to showcase information about myself, as well as my resume, and projects I have worked on
